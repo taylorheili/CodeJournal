@@ -7,3 +7,4 @@ My Coding Journey
 [Day 5](Days/day5.md)
 [Day 6](Days/day6.md)
 [Day 7](Days/day7.md)
+[Day 8](Days/day8.md)
