@@ -12,3 +12,4 @@ My Coding Journey
 [Day 10](Days/day10.md)
 [Day 11](Days/day11.md)
 [Day 12](Days/day12.md)
+[Day 13](Days/day13.md)
